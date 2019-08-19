@@ -10,7 +10,7 @@ _(Créateur de comptes open-sources)_
 <p align="center">
 	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=86QGKAEFUDS6Y&source=url"><img width="185" src="https://raw.githubusercontent.com/k4m4/donations/master/images/badge.svg?sanitize=true" alt="Badge"></a>
 	<br><br>
-	<b>🙌 Use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=86QGKAEFUDS6Y&source=url">donations</a> to help support <b>your</b> projects! 🙌</b>
+	<b>🙌 Supportez VOTRE projet en cliquant sur <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=86QGKAEFUDS6Y&source=url">donations</a> 🙌</b>
 </p>
 <br>
 
