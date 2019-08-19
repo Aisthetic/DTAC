@@ -1,6 +1,5 @@
 Customized Account Creator
 
-Author: Séraphin WATTENNE
 Data: 2019/08/19
 Discord : Syliaz#1452
 
