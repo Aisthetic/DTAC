@@ -60,9 +60,7 @@ Il ne vous reste plus qu'à exécuter le .exe
 
 Libre à vous d'améliorer le créateur, merci de le garder en open-sources.
 
-## Auteur
-
-* **Séraphin WATTENNE** _alias_ [@Syliaz](https://github.com/Syliaz)
+ [@Syliaz](https://github.com/Syliaz)
 
 Discord : Syliaz#1452
 
