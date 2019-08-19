@@ -55,6 +55,7 @@ _Installation_: Executez la commande ``npm install pkg`` puis :
 
 _Lancement_: Executez la commande ``pkg .``
 
+Il ne vous reste plus qu'à exécuter le .exe
 ## Contributing
 
 Libre à vous d'améliorer le créateur, merci de le garder en open-sources.
