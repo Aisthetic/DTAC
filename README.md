@@ -1,13 +1,13 @@
 # DT Account Creator
 _(Créateur de comptes open-sources)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://discordapp.com/invite/FqwpVQW) 
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://discordapp.com/invite/FqwpVQW)  
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://discordapp.com/invite/FqwpVQW)[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://discordapp.com/invite/FqwpVQW) 
 
 Créateur de comptes avec résolution des captchas et validation des emails.
 
 ## Pour commencer
+
+Discord : https://discordapp.com/invite/FqwpVQW
 
 Téléchargez le dossier complet ainsi que Nodejs pour utiliser directement les sources.
 
@@ -49,5 +49,5 @@ Discord : Syliaz#1452
 
 ## License
 
-Ce projet est sous licence ``exemple: mit`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``mit`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
