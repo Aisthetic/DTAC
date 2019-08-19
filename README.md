@@ -1,4 +1,4 @@
-# DT Account Creator
+# DT Accounts Creator
 _(Créateur de comptes open-sources)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://discordapp.com/invite/FqwpVQW)[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://discordapp.com/invite/FqwpVQW) 
