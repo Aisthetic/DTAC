@@ -1,6 +1,24 @@
 # DT Accounts Creator
 _(Créateur de comptes open-sources)_
 
+
+<h1 align="center">
+	<img width="250" src="https://raw.githubusercontent.com/k4m4/donations/master/images/heart3.png" alt="Donations"><p>
+</h1>
+
+<br>
+<p align="center">
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=86QGKAEFUDS6Y&source=url"><img width="185" src="https://raw.githubusercontent.com/k4m4/donations/master/images/badge.svg?sanitize=true" alt="Badge"></a>
+	<br><br>
+	<b>🙌 Use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=86QGKAEFUDS6Y&source=url">donations</a> to help support <b>your</b> projects! 🙌</b>
+</p>
+<br>
+
+---
+
+<br>
+
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://discordapp.com/invite/FqwpVQW)[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://discordapp.com/invite/FqwpVQW) 
 
 Créateur de comptes avec résolution des captchas et validation des emails.
